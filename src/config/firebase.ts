@@ -10,13 +10,7 @@ import { toast } from "react-toastify";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyD-m4uwJDpHgkUX_HOhZcUE7l9ROxkx8NA",
-  authDomain: "chat-app-f4741.firebaseapp.com",
-  projectId: "chat-app-f4741",
-  storageBucket: "chat-app-f4741.appspot.com",
-  messagingSenderId: "1091341812857",
-  appId: "1:1091341812857:web:67ee09771f29f222a640a8",
-  measurementId: "G-WB7BQRH1N4"
+// Add firebase key
 };
 
 // Initialize Firebase
